@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and the Zenodo archive."
+title: "fungal-constraint-target-prioritization: analysis code and derived data"
+version: 1.1.0
+date-released: 2026-10-15
+doi: 10.5281/zenodo.23386570
+repository-code: https://github.com/sahapanvih-dotcom/Sahapan-s-Repository-
+license: MIT
+authors:
+  - family-names: Vichathai
+    given-names: Sahapan
+    affiliation: Faculty of Tropical Medicine, Mahidol University
+  - family-names: Doungdun
+    given-names: Thitaree
+    affiliation: Faculty of Tropical Medicine, Mahidol University
+  - family-names: Ampawong
+    given-names: Sumate
+    affiliation: Faculty of Tropical Medicine, Mahidol University
+  - family-names: Reamtong
+    given-names: Onrapak
+    affiliation: Faculty of Tropical Medicine, Mahidol University
+  - family-names: Huang
+    given-names: Yin-Tse
+    affiliation: National Cheng Kung University
+  - family-names: Sukphopetch
+    given-names: Passanesh
+    affiliation: Faculty of Tropical Medicine, Mahidol University
+preferred-citation:
+  type: article
+  title: "Evolutionary constraint reveals lineage-specific antifungal target prioritization and host-selectivity trade-offs across fungal pathogens"
+  journal: mSystems
+  year: 2026
+  authors:
+    - family-names: Vichathai
+      given-names: Sahapan
+    - family-names: Doungdun
+      given-names: Thitaree
+    - family-names: Ampawong
+      given-names: Sumate
+    - family-names: Reamtong
+      given-names: Onrapak
+    - family-names: Huang
+      given-names: Yin-Tse
+    - family-names: Sukphopetch
+      given-names: Passanesh

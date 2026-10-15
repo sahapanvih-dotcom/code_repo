@@ -1,0 +1,14 @@
+# intermediates that the scripts regenerate; never commit them
+raw_data/
+analysis/
+output/
+*.bam
+*.vcf
+*.vcf.gz
+*.fastq*
+*.fna.gz
+*.bak*
+.Rhistory
+.RData
+__pycache__/
+renv/library/
